@@ -1,2 +1,10 @@
 Datenbank/fragdenstaat_alle_dokumente.jsonl
 Datenbank/fragdenstaat_alle_dokumente.csv
+
+# Lokale FragDenStaat-Datendateien
+Datenbank/*.csv
+Datenbank/*.jsonl
+Datenbank/*checkpoint*.json
+Datenbank/*.log
+Datenbank/*.tmp
+
