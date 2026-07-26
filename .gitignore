@@ -8,3 +8,6 @@ Datenbank/*checkpoint*.json
 Datenbank/*.log
 Datenbank/*.tmp
 
+
+Modelle/
+Datenbank/Modelle/

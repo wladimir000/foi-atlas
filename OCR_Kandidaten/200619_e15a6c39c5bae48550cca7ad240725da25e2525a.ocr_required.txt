@@ -1,0 +1,6 @@
+PDF: C:\Users\Admin\Desktop\OpenLens\Dokumente\200619_e15a6c39c5bae48550cca7ad240725da25e2525a.pdf
+Dokument-ID: 200619
+Seiten: 1
+Zeichen insgesamt: 19
+Textlose Seiten: 1
+Grund: 100.0% der Seiten enthalten kaum oder keinen Text.

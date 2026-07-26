@@ -1,0 +1,17 @@
+{
+  "project": "OpenLens",
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "local_model_path": "C:\\Users\\Admin\\Desktop\\OpenLens\\Modelle\\paraphrase-multilingual-MiniLM-L12-v2",
+  "number_of_embeddings": 271,
+  "embedding_dimension": 384,
+  "embedding_dtype": "float32",
+  "normalized_embeddings": true,
+  "batch_size": 32,
+  "chunk_source": "C:\\Users\\Admin\\Desktop\\OpenLens\\Chunks\\fragdenstaat_chunks.jsonl",
+  "embeddings_file": "C:\\Users\\Admin\\Desktop\\OpenLens\\Embeddings\\fragdenstaat_embeddings.npy",
+  "metadata_jsonl": "C:\\Users\\Admin\\Desktop\\OpenLens\\Embeddings\\fragdenstaat_embedding_metadata.jsonl",
+  "metadata_csv": "C:\\Users\\Admin\\Desktop\\OpenLens\\Embeddings\\fragdenstaat_embedding_metadata.csv",
+  "embedding_file_size_bytes": 416384,
+  "embedding_file_size_mb": 0.4,
+  "created_at": "2026-07-24T16:38:42.267135+00:00"
+}
